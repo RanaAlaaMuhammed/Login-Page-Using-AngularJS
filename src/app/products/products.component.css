@@ -1,0 +1,16 @@
+.wrapper {
+    text-align: center;
+}
+button {   
+         background-color: #0d4b42;   
+         width: 20%;  
+          color: rgb(255, 255, 255);   
+          padding: 15px;   
+          margin: 10px 0px;   
+          border: none;   
+          cursor: pointer;   
+           }
+input {
+        border: none;
+        background: transparent;
+}
